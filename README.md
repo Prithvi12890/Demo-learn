@@ -12,4 +12,4 @@ Good-bye!
 
 ## Local development
 
-Making changes in the new branch (test-branch_1)
+Made changes in the new branch (test-branch_1)
